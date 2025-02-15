@@ -77,19 +77,36 @@ a:hover{
     background-color: #1e3932;
     color: white;
     text-align: center;
+    margin-bottom: 30px;
 }
 
-.banner h2{
+.banner h1{
     font-size: 28px;
     margin-bottom: 25px;
 }
 
 .banner p{
     font-size: 20px;
-    line-height: 50px;
+    line-height: 40px;
 }
 
 .banner div{
     align-content: center;
-    padding: 0 140px;
+    padding: 0 135px;
+}
+
+/* 2da sección */
+
+#cafés{
+    background-color:#cae390;
+    color:#1e3932;
+}
+
+#tostado{
+    background-color: #f5e1a4;
+    color:#204285;
+}
+
+#vasos{
+    background-color: #474a6f;
 }
